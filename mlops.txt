@@ -1,0 +1,2 @@
+I am learning MLops and I will become MLops engineer.
+To become a MLops engineer I must learn Machine learning concepts, Devops and Operations.
