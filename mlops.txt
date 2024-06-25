@@ -2,3 +2,4 @@ I am learning MLops and I will become MLops engineer.
 To become a MLops engineer I must learn Machine learning concepts, Devops and Operations.
 I must think and act like MLops engineer.
 I must talk to other MLops engineers to learn concepts and information. 
+I must find a good learning path to learn MLops tools.
